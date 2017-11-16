@@ -1,0 +1,47 @@
+
+.block{
+  border: 3px  solid  #000;
+  width: 56px;
+  margin-top: 13px;
+}
+.up{
+  position: absolute;
+  margin-top: 25px;
+  width: 90%;
+  height: 30%;
+  background: white;
+}
+.coder1{
+  position: relative;
+   top: 0px;
+  width: 25%;
+
+}
+
+.coder2{
+  position: absolute;
+  top: 0px;
+  left:250px;
+  width: 25%;
+
+}
+.coder3{
+  position: absolute;
+  top: 0px;
+  left:500px;
+  width: 25%;
+}
+
+.down{
+  position: absolute;
+  top: 350px;
+  width: 90%;
+  height: 30%;
+  }
+
+  .name1{
+  position: absolute;
+  left:40px;
+  top: 190px;
+  color: white;
+  }
